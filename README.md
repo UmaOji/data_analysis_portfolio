@@ -9,6 +9,7 @@ This repository showcases my skills, is a platform to share my projects, and is 
 ## Table of contents
 * [About](#about)
 * [Portfolio Projects](#portfolio-projects)
+  * [CSR Spending and Beneficiaries: Nigerian Banks](#csr-spending-and-beneficiaries-nigerian-banks)
 * [Certificates](#certificates)
 * [Contacts](#contacts)
 ## Portfolio Projects
