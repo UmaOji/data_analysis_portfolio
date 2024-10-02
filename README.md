@@ -32,7 +32,7 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 * [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/NWMRRCMYWZXM) (Feb 2024) (Coursera)
 * [Work Smarter with Microsoft Excel](https://www.coursera.org/account/accomplishments/certificate/SCMMH8GJ7WGL) (Sep 2023) (Coursera)
 * [Jobberman Soft-Skills Training](https://www.coursera.org/account/accomplishments/certificate/SCMMH8GJ7WGL) (May 2023) (Jobberman Nigeria)
-* [Certified Secure Computer User (C/SCU)](https://aspen.eccouncil.org/Verify) (Credential ID: ECC8794516230) (Jul 2021) (EC-Council) 
+* [Certified Secure Computer User (C/SCU)](https://aspen.eccouncil.org/Verify) (Jul 2021) (EC-Council) 
 ## Contacts
 ### 
 Let's connect!
