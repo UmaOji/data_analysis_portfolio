@@ -8,7 +8,7 @@ You can download my Resume [here](https://github.com/UmaOji/readme/blob/main/Chu
 This repository showcases my skills, is a platform to share my projects, and is a way to track my progress in Data Analytics and Data Science-related topics.
 ## Table of contents
 * [About](#about)
-* [Portfolio Projects](#portfolio projects)
+* [Portfolio Projects](#portfolioprojects)
 * [Certificates](#certificates)
 * [Contacts](#contacts)
 ## Portfolio Projects
@@ -16,18 +16,9 @@ This repository showcases my skills, is a platform to share my projects, and is 
 Here, I'll showcase data analytics projects, providing an overview of the technical solutions implemented.
 ## CSR Spending and Beneficiaries: Nigerian Banks
 This dataset contains information on corporate social responsibility (CSR) spending by major Nigerian banks, including Zenith Bank, Guaranty Trust Bank (GT Bank), First Bank of Nigeria, Ecobank Nigeria, Wema Bank, Access Bank, United Bank for Africa (UBA), Diamond Bank, Union Bank of Nigeria, and Fidelity Bank. The dataset tracks quarterly CSR expenditures (Q1, Q2, Q3, and Q4) and the number of beneficiaries impacted by these initiatives over several years.
-###### Skills Demonstrated
-**Data Analysis**: Cleaning, manipulating, and analyzing large datasets to derive meaningful insights.
-**Correlation Analysis**: Analyzing relationships between CSR spending and beneficiaries.
-**Data Visualization**: Creating effective charts and graphs to communicate insights from the data visually.
-
-### Technology
-- **Microsoft Excel**: Data cleaning, Pivot Tables, correlation analysis, and chart creation.
-- **GitHub**: Version control and project showcase.
-- **Markdown**: For documenting the project in the README file.
-
-### Results
-A correlation analysis revealed a strong positive relationship between CSR spending and the number of beneficiaries, with a correlation coefficient of **0.791**. This suggests that higher CSR investments are generally associated with a greater impact on beneficiaries. The results support the hypothesis that increased spending by banks tends to lead to larger numbers of beneficiaries served by CSR programs.
+**Skills Demonstrated:** Data Analysis, Correlation Analysis, Data Visualization
+**Technology:** Microsoft Excel, Tableau, Markdown
+**Results:** A correlation analysis revealed a strong positive relationship between CSR spending and the number of beneficiaries, with a correlation coefficient of **0.791**. This suggests that higher CSR investments are generally associated with a greater impact on beneficiaries. The results support the hypothesis that increased spending by banks tends to lead to larger numbers of beneficiaries served by CSR programs.
 
 ## Certificates
 ###
