@@ -6,6 +6,7 @@ I'm a data analyst with a robust Computer Science (Information Systems) foundati
 ###
 You can download my Resume [here](https://github.com/UmaOji/readme/blob/main/Chukwuma%20Oji%20-%20Resume.pdf)
 
-
-##### 
+###
 This repository showcases my skills, is a platform to share my projects, and is a way to track my progress in Data Analytics and Data Science-related topics.
+## Table of contents
+* [About](https://github.com/UmaOji/readme?tab=readme-ov-file#about)
