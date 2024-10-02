@@ -10,11 +10,37 @@ This repository showcases my skills, is a platform to share my projects, and is 
 * [About](#about)
 * [Certificates](#certificates)
 * [Contacts](#contacts)
+## Portfolio Projects
+###
+Here, I'll showcase data analytics projects, providing an overview of the technical solutions implemented.
+## CSR Dataset Description
+
+This dataset contains information on corporate social responsibility (CSR) spending by major Nigerian banks, including Zenith Bank, Guaranty Trust Bank (GT Bank), First Bank of Nigeria, Ecobank Nigeria, Wema Bank, Access Bank, United Bank for Africa (UBA), Diamond Bank, Union Bank of Nigeria, and Fidelity Bank. The dataset tracks quarterly CSR expenditures (Q1, Q2, Q3, and Q4) and the number of beneficiaries impacted by these initiatives over several years. It includes fields such as:
+
+**Bank Name**: Name of the bank.
+**Amount_Spent**: Total amount spent on CSR initiatives in each quarter.
+**Beneficiaries**: Number of beneficiaries impacted by the CSR activities.
+**Year**: Year of the CSR activity.
+**Quarter**: Quarterly breakdown of CSR spending and impact.
+
+### Skills Demonstrated
+**Data Analysis**: Cleaning, manipulating, and analyzing large datasets to derive meaningful insights.
+**Correlation Analysis**: Analyzing relationships between CSR spending and beneficiaries.
+**Data Visualization**: Creating effective charts and graphs to communicate insights from the data visually.
+
+### Technology
+- **Microsoft Excel**: Data cleaning, Pivot Tables, correlation analysis, and chart creation.
+- **GitHub**: Version control and project showcase.
+- **Markdown**: For documenting the project in the README file.
+
+### Results
+A correlation analysis revealed a strong positive relationship between CSR spending and the number of beneficiaries, with a correlation coefficient of **0.791**. This suggests that higher CSR investments are generally associated with a greater impact on beneficiaries. The results support the hypothesis that increased spending by banks tends to lead to larger numbers of beneficiaries served by CSR programs.
+
 ## Certificates
 ###
 I believe that the best way to showcase skills is by doing and sharing your job but sometimes certificates appear to be an indirect result:) So here is a list of the ones I have (in reverse chronological order, with the date of completion in brackets):
 * [Google AI Essentials](https://www.coursera.org/account/accomplishments/certificate/ETAONHK642AO) (Sep 2024) (Coursera)
-* [AWS Certified Practitioner](https://aws.amazon.com/verification) (Credential ID: e7794cfd2c7242e6ab4d5337a854c55b) (Aug 2024) (Amazon Web Services)
+* [AWS Certified Practitioner](https://aws.amazon.com/verification) (Aug 2024) (Amazon Web Services)
 * [Prepare Data for Exploraion](https://www.coursera.org/account/accomplishments/certificate/HXM8LC46UNX6) (Jul 2024) (Coursera)
 * [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/83HDZCJKSU7H) (Jul 2024) (Coursera)
 * [Ask Questions to Make Dat-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/7WFWGUZK5TMF) (May 2024) (Coursera)
