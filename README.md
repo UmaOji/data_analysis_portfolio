@@ -9,4 +9,4 @@ You can download my Resume [here](https://github.com/UmaOji/readme/blob/main/Chu
 ###
 This repository showcases my skills, is a platform to share my projects, and is a way to track my progress in Data Analytics and Data Science-related topics.
 ## Table of contents
-* [About](https://github.com/UmaOji/readme?tab=readme-ov-file#about)
+* [About](#about)
