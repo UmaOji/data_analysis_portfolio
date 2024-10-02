@@ -10,3 +10,9 @@ You can download my Resume [here](https://github.com/UmaOji/readme/blob/main/Chu
 This repository showcases my skills, is a platform to share my projects, and is a way to track my progress in Data Analytics and Data Science-related topics.
 ## Table of contents
 * [About](#about)
+* [Certificates](#certificates)
+## Certificates
+###
+I believe that the best way to showcase skills is by doing and sharing your job but sometimes certificates appear to be an indirect result:) So here is a list of the ones I have (in reverse chronological order, with the date of completion in brackets):
+## Contacts
+* LinkedIn: [@chukwumaoji](https://www.linkedin.com/in/chukwumaoji/)
