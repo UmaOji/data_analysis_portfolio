@@ -13,7 +13,7 @@ This repository showcases my skills, is a platform to share my projects, and is 
 ## Certificates
 ###
 I believe that the best way to showcase skills is by doing and sharing your job but sometimes certificates appear to be an indirect result:) So here is a list of the ones I have (in reverse chronological order, with the date of completion in brackets):
-*[Google AI Essentials](https://www.coursera.org/account/accomplishments/certificate/ETAONHK642AO)(Sep 2024) (Coursera)
+* [Google AI Essentials](https://www.coursera.org/account/accomplishments/certificate/ETAONHK642AO)(Sep 2024) (Coursera)
 ## Contacts
 * LinkedIn: [@chukwumaoji](https://www.linkedin.com/in/chukwumaoji/)
 * E-mail: [josephcoji@gmail.com](mailto:josephcoji@gmail.com)
