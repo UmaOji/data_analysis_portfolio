@@ -8,22 +8,15 @@ You can download my Resume [here](https://github.com/UmaOji/readme/blob/main/Chu
 This repository showcases my skills, is a platform to share my projects, and is a way to track my progress in Data Analytics and Data Science-related topics.
 ## Table of contents
 * [About](#about)
+* [Portfolio Projects](#portfolio projects)
 * [Certificates](#certificates)
 * [Contacts](#contacts)
 ## Portfolio Projects
 ###
 Here, I'll showcase data analytics projects, providing an overview of the technical solutions implemented.
-## CSR Dataset Description
-
-This dataset contains information on corporate social responsibility (CSR) spending by major Nigerian banks, including Zenith Bank, Guaranty Trust Bank (GT Bank), First Bank of Nigeria, Ecobank Nigeria, Wema Bank, Access Bank, United Bank for Africa (UBA), Diamond Bank, Union Bank of Nigeria, and Fidelity Bank. The dataset tracks quarterly CSR expenditures (Q1, Q2, Q3, and Q4) and the number of beneficiaries impacted by these initiatives over several years. It includes fields such as:
-
-**Bank Name**: Name of the bank.
-**Amount_Spent**: Total amount spent on CSR initiatives in each quarter.
-**Beneficiaries**: Number of beneficiaries impacted by the CSR activities.
-**Year**: Year of the CSR activity.
-**Quarter**: Quarterly breakdown of CSR spending and impact.
-
-### Skills Demonstrated
+## CSR Spending and Beneficiaries: Nigerian Banks
+This dataset contains information on corporate social responsibility (CSR) spending by major Nigerian banks, including Zenith Bank, Guaranty Trust Bank (GT Bank), First Bank of Nigeria, Ecobank Nigeria, Wema Bank, Access Bank, United Bank for Africa (UBA), Diamond Bank, Union Bank of Nigeria, and Fidelity Bank. The dataset tracks quarterly CSR expenditures (Q1, Q2, Q3, and Q4) and the number of beneficiaries impacted by these initiatives over several years.
+###### Skills Demonstrated
 **Data Analysis**: Cleaning, manipulating, and analyzing large datasets to derive meaningful insights.
 **Correlation Analysis**: Analyzing relationships between CSR spending and beneficiaries.
 **Data Visualization**: Creating effective charts and graphs to communicate insights from the data visually.
