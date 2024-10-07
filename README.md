@@ -12,6 +12,9 @@ This repository showcases my skills, is a platform to share my projects, and is 
   * [CSR Spending and Beneficiaries: Nigerian Banks](#csr-spending-and-beneficiaries-nigerian-banks)
 * [Certificates](#certificates)
 * [Contacts](#contacts)
+
+---
+
 ## Portfolio Projects
 ###
 Here, I'll showcase data analytics projects, providing an overview of the technical solutions implemented.
@@ -20,7 +23,10 @@ This dataset contains information on corporate social responsibility (CSR) spend
 - **Skills Demonstrated:** Data Analysis, Correlation Analysis, Data Visualization
 - **Technology:** Microsoft Excel, Tableau, Markdown
 - **Results:** A correlation analysis revealed a strong positive relationship between CSR spending and the number of beneficiaries, with a correlation coefficient of **0.791**. This suggests that higher CSR investments are generally associated with a greater impact on beneficiaries. The results support the hypothesis that increased spending by banks tends to lead to larger numbers of beneficiaries served by CSR programs.  
-See Project Here: [CSR Spending and Beneficiaries: Nigerian Bank](https://github.com/UmaOji/BankCSRData)
+**See Project Here:** [CSR Spending and Beneficiaries: Nigerian Bank](https://github.com/UmaOji/BankCSRData)
+
+---
+
 ## Certificates
 ###
 I believe that the best way to showcase skills is by doing and sharing your job but sometimes certificates appear to be an indirect result:) So here is a list of the ones I have (in reverse chronological order, with the date of completion in brackets):
@@ -32,7 +38,10 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 * [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/NWMRRCMYWZXM) (Feb 2024) (Coursera)
 * [Work Smarter with Microsoft Excel](https://www.coursera.org/account/accomplishments/certificate/SCMMH8GJ7WGL) (Sep 2023) (Coursera)
 * [Jobberman Soft-Skills Training](https://www.coursera.org/account/accomplishments/certificate/SCMMH8GJ7WGL) (May 2023) (Jobberman Nigeria)
-* [Certified Secure Computer User (C/SCU)](https://aspen.eccouncil.org/Verify) (Jul 2021) (EC-Council) 
+* [Certified Secure Computer User (C/SCU)](https://aspen.eccouncil.org/Verify) (Jul 2021) (EC-Council)
+
+---
+
 ## Contacts
 ### 
 Let's connect!
