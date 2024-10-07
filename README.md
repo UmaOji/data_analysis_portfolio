@@ -19,8 +19,8 @@ Here, I'll showcase data analytics projects, providing an overview of the techni
 This dataset contains information on corporate social responsibility (CSR) spending by major Nigerian banks, including Zenith Bank, Guaranty Trust Bank (GT Bank), First Bank of Nigeria, Ecobank Nigeria, Wema Bank, Access Bank, United Bank for Africa (UBA), Diamond Bank, Union Bank of Nigeria, and Fidelity Bank. The dataset tracks quarterly CSR expenditures (Q1, Q2, Q3, and Q4) and the number of beneficiaries impacted by these initiatives over several years.
 - **Skills Demonstrated:** Data Analysis, Correlation Analysis, Data Visualization
 - **Technology:** Microsoft Excel, Tableau, Markdown
-- **Results:** A correlation analysis revealed a strong positive relationship between CSR spending and the number of beneficiaries, with a correlation coefficient of **0.791**. This suggests that higher CSR investments are generally associated with a greater impact on beneficiaries. The results support the hypothesis that increased spending by banks tends to lead to larger numbers of beneficiaries served by CSR programs.
-
+- **Results:** A correlation analysis revealed a strong positive relationship between CSR spending and the number of beneficiaries, with a correlation coefficient of **0.791**. This suggests that higher CSR investments are generally associated with a greater impact on beneficiaries. The results support the hypothesis that increased spending by banks tends to lead to larger numbers of beneficiaries served by CSR programs.  
+See Project Here: [CSR Spending and Beneficiaries: Nigerian Bank](https://github.com/UmaOji/BankCSRData)
 ## Certificates
 ###
 I believe that the best way to showcase skills is by doing and sharing your job but sometimes certificates appear to be an indirect result:) So here is a list of the ones I have (in reverse chronological order, with the date of completion in brackets):
