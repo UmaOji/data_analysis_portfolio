@@ -28,8 +28,8 @@ This dataset contains information on corporate social responsibility (CSR) spend
 **See Project Here:** [CSR Spending and Beneficiaries: Nigerian Bank](https://github.com/UmaOji/BankCSRData)
 
 ## Patient Waiting Time Analysis
-**Code**: `patient_waiting_time.sql`
-**Description**: The dataset contains patient records, including entry time, post-consultation time, and completion time, along with financial class and patient type. The project includes the following steps: data cleaning (handling missing or erroneous values), calculating waiting times, performing exploratory data analysis (EDA), visualizing patterns in patient waiting times, identifying key insights based on day of the week and financial class, and analyzing the impact of staffing or patient type on waiting times.  
+- **Code**: [patient_waiting_time.sql](https://github.com/UmaOji/patient-waiting-time/blob/main/3.analysis_questions.sql)
+- **Description**: The dataset contains patient records, including entry time, post-consultation time, and completion time, along with financial class and patient type. The project includes the following steps: data cleaning (handling missing or erroneous values), calculating waiting times, performing exploratory data analysis (EDA), visualizing patterns in patient waiting times, identifying key insights based on day of the week and financial class, and analyzing the impact of staffing or patient type on waiting times.  
 - **Skills:** data cleaning, data analysis, time series analysis, data visualization, KPIs (key performance indicators), business insights.  
 - **Technology**: MySQL, Power BI, Microsoft Excel, PowerPoint Presentation  
 - **Results**: Analysis of patient waiting times based on various factors such as day of the week, financial class, and patient type, along with actionable insights to reduce wait times and optimize patient flow in healthcare settings.  
