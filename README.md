@@ -8,11 +8,12 @@ You can download my Resume [here](https://github.com/user-attachments/files/1745
 
 This repository showcases my skills, is a platform to share my projects, and is a way to track my progress in Data Analytics and Data Science-related topics.
 ## Table of contents
-* [About](#about)
-* [Portfolio Projects](#portfolio-projects)
-  * [CSR Spending and Beneficiaries: Nigerian Banks](#csr-spending-and-beneficiaries-nigerian-banks)
-* [Certificates](#certificates)
-* [Contacts](#contacts)
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+  - [CSR Spending and Beneficiaries: Nigerian Banks](#csr-spending-and-beneficiaries-nigerian-banks)
+  - [Patient Waiting Time Analysis](#patient-waiting-time-analysis) 
+- [Certificates](#certificates)
+- [Contacts](#contacts)
 
 ---
 
@@ -22,9 +23,20 @@ Here, I'll showcase data analytics projects, providing an overview of the techni
 ## CSR Spending and Beneficiaries: Nigerian Banks
 This dataset contains information on corporate social responsibility (CSR) spending by major Nigerian banks, including Zenith Bank, Guaranty Trust Bank (GT Bank), First Bank of Nigeria, Ecobank Nigeria, Wema Bank, Access Bank, United Bank for Africa (UBA), Diamond Bank, Union Bank of Nigeria, and Fidelity Bank. The dataset tracks quarterly CSR expenditures (Q1, Q2, Q3, and Q4) and the number of beneficiaries impacted by these initiatives over several years.
 - **Skills Demonstrated:** Data Analysis, Correlation Analysis, Data Visualization
-- **Technology:** Microsoft Excel, Tableau, Markdown
+- **Technology:** Microsoft Excel, Tableau
 - **Results:** A correlation analysis revealed a strong positive relationship between CSR spending and the number of beneficiaries, with a correlation coefficient of **0.791**. This suggests that higher CSR investments are generally associated with a greater impact on beneficiaries. The results support the hypothesis that increased spending by banks tends to lead to larger numbers of beneficiaries served by CSR programs.  
 **See Project Here:** [CSR Spending and Beneficiaries: Nigerian Bank](https://github.com/UmaOji/BankCSRData)
+
+## Patient Waiting Time Analysis
+**Code**: `patient_waiting_time.sql`
+**Description**: The dataset contains patient records, including entry time, post-consultation time, and completion time, along with financial class and patient type. The project includes the following steps: data cleaning (handling missing or erroneous values), calculating waiting times, performing exploratory data analysis (EDA), visualizing patterns in patient waiting times, identifying key insights based on day of the week and financial class, and analyzing the impact of staffing or patient type on waiting times.  
+- **Skills:** data cleaning, data analysis, time series analysis, data visualization, KPIs (key performance indicators), business insights.  
+- **Technology**: MySQL, Power BI, Microsoft Excel, PowerPoint Presentation  
+- **Results**: Analysis of patient waiting times based on various factors such as day of the week, financial class, and patient type, along with actionable insights to reduce wait times and optimize patient flow in healthcare settings.  
+
+---
+
+This format keeps it concise and structured while clearly explaining your project's steps, the technology used, and the outcomes you achieved.
 
 ---
 
